@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Raleway:wght@800&family=Spartan:wght@300&display=swap');
+
+body {
+    background-color:lightsalmon;
+    margin: 0;
+}
+
+p {
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 70px;
+    margin: 0;
+}
+
+h2.projects {
+    font-family: 'Spartan', sans-serif;
+    font-weight:100;
+    font-size: 90px;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight:100;
+    font-size: 50px;
+    margin: 0;
+}
+
+h2.quote {
+    display: inline;
+    margin: 0;
+}
+
+div.content_landing {
+    background-color: rgb(255, 174, 142);
+    height: 100vh;
+    width: 100vw;
+}
+
+div.content {
+    background-color:whitesmoke;
+    height: 50vh;
+    width: 100vw;
+    margin: 0;
+}
+
+div.content_projects {
+    background-color:whitesmoke;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+div.content_copy {
+    background-color: whitesmoke;
+    margin: 0;
+}
+
+div.content_insert {
+    background-color:rgb(255, 174, 142);
+    width: 100vw;
+    margin: 0;
+}
+
+div.content_info {
+    background-color:whitesmoke;
+}
+
+div.projects {
+    background-color: whitesmoke;
+}
+
+div.headline {
+    background-color: rgb(255, 174, 142);
+    width: fit-content;
+    margin: auto;
+    position: relative;
+    top: 40%;
+}
+
+div.navigation {
+    background-color: whitesmoke;
+}
+
+div.nav_header {
+    background-color: whitesmoke;
+}
+
+div.menu {
+    background-color:whitesmoke;
+}
